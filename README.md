@@ -99,6 +99,7 @@ Building modern web applications demands the right set of tools. With an abundan
 | 14. | [**React-ID-Swiper**](https://github.com/kidjp85/react-id-swiper) | React ID Swiper is a library to use Swiper as a React JS component that allows you its modules to custom build. | React.js |
 | 15. | [**React Slick**](https://themeselection.com/react-carousel-library/) | React-Slick is a carousel component for React applications for creating responsive and customizable carousels or sliders. | React.js |
 | 16. | [**React Swipeable**](https://github.com/FormidableLabs/react-swipeable) | An open-source project that offers a swipeable component for React applications. | React.js |
+| 17. | [**videojs-story-view**](https://github.com/hicay/videojs-story-view) | A dependency-free `<story-view>` custom element for Instagram-style video and image stories with tap, swipe, and keyboard navigation. | TypeScript |
 
 <div align="right">
 
